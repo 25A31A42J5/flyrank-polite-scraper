@@ -10,7 +10,7 @@ A Python web-scraping pipeline built for FlyRank Internship Assignment A9.
 - Scope: The first three catalogue pages and their 60 unique book pages.
 - Data: Book titles, prices, availability, ratings, descriptions, URLs,
   source catalogue pages, and fetch timestamps.
-- Robots.txt result: To be recorded after inspection.
+- Robots.txt result: HTTP 404 Not Found when checked.
 
 I will not reuse this code on another site without checking its rules
 and terms first.
